@@ -15,6 +15,9 @@
     "sharedGlobals": []
   },
   "targetDefaults": {
+    "echo": {
+      "cache": true
+    },
     "@nx/eslint:lint": {
       "cache": true,
       "inputs": [
